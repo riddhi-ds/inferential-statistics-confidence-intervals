@@ -1,3 +1,5 @@
+# Statistics Journey - Day 10
+
 # 📊 Statistical Inference with Confidence Intervals
 
 ## 🚀 Overview
